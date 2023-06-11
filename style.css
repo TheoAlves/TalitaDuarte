@@ -218,4 +218,7 @@ footer p {
   .cta-button {
     font-size: 14px;
   }
+  .imgs{
+	display: block;
+	}
 }
