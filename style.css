@@ -39,7 +39,6 @@ nav {
 	align-items: center;
 }
 .logo h1 {
-	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 	font-size: 24px;
 	text-align:center;
 }
@@ -54,7 +53,6 @@ nav ul li {
 nav ul li a {
 	color: #fff;
 	text-decoration: none;
-	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 	text-align:center;
 }
 /* Estilos do banner */
