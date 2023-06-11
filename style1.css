@@ -57,7 +57,7 @@ nav ul li a {
 }
 /* Estilos do banner */
 #banner {
-	background-image: url("banner.png");
+	background-image: url("clientes.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
@@ -152,10 +152,10 @@ footer p {
     font-size: 24px;
   }
   input, textarea {
-	  width:150px;
+	  width:100px;
   }
   #sobre, #servicos, footer{
-	  margin:20px ;
+	  margin:20px 40px;
   }
 
   .cta-button {
